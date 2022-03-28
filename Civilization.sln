@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Civilization", "Civilization\Civilization.csproj", "{D3A0BDC0-9E69-4E85-81EB-A847262AB471}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Front End", "Front End\Front End.csproj", "{03912BEE-433C-47B0-83F3-3F6AC7C6F6DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3A0BDC0-9E69-4E85-81EB-A847262AB471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3A0BDC0-9E69-4E85-81EB-A847262AB471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3A0BDC0-9E69-4E85-81EB-A847262AB471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3A0BDC0-9E69-4E85-81EB-A847262AB471}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03912BEE-433C-47B0-83F3-3F6AC7C6F6DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03912BEE-433C-47B0-83F3-3F6AC7C6F6DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03912BEE-433C-47B0-83F3-3F6AC7C6F6DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03912BEE-433C-47B0-83F3-3F6AC7C6F6DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35DC6FF5-7881-4C19-A89D-86C1E78CFB07}
+	EndGlobalSection
+EndGlobal
